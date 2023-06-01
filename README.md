@@ -1,5 +1,5 @@
 # Multi-Class-Multi-Label-Classification-Using-Support-Vector-Machines
-Multi-class and Multi-Label Classification Using Support Vector Machines using K-Means Clustering and Monte Carlo Simulation
+Multi-class and Multi-Label Classification Using Support Vector Machines, K-Means Clustering and Monte Carlo Simulation
 Data Set Name: Anuran Calls (MFCCs)
 
 Abstract: (less than 200 characters).
